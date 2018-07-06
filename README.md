@@ -1,4 +1,3 @@
-# coding_practice
-coding puzzles
+# Counselling Point Aggregator
 
-This repo contains drafts for coding puzzles.
+This repo contains drafts for a patient counselling aggregator model.
