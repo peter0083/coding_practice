@@ -1,5 +1,3 @@
-# Coding Puzzle
+# Script Archive
 
-This repo contains scripts for various coding puzzles from various sites such as:
-
-https://www.codewars.com/
+This repo contains rought drafts of various projects
