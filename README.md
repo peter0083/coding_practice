@@ -1,3 +1,3 @@
-# Counselling Point Aggregator
+# Coding Puzzle
 
-This repo contains drafts for a patient counselling aggregator model.
+This repo contains scripts for various coding puzzles.
