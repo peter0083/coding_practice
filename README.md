@@ -1,10 +1,12 @@
 # Megaman.ai
 
-Capcom's Megaman series reaches its 30th anniversary this year! (2018) Growing up, Megaman series was one of my favourite. As a tribute to this amazing series that I spent many hours playing, I want to create a game bot for Megaman!
 
 ![megaman_30th_anniversary](https://s31.postimg.cc/whbusvrez/MEGAMANSURVEYBanner.jpg)
 
 Source: [soulplayerz](http://www.soulplayerz.com/2017/09/29/novidade-sobre-mega-man-em-dezembro/)
+
+Capcom's Megaman series reaches its 30th anniversary this year! (2018) Growing up, Megaman series was one of my favourite. As a tribute to this amazing series that I spent many hours playing, I want to create a game bot for Megaman!
+
 
 This repo contains rough work of my Megaman.ai project
 
